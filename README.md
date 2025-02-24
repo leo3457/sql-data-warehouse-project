@@ -45,3 +45,10 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Product Performance**
 - **Sales Trends**
 #### These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+---
+
+## 🌟 About Me
+Hi there! I'm Leo, a passionate and driven student at the University of Waterloo, pursuing a degree in Statistics and Actuarial Science. I’m deeply fascinated by the world of data and its power to uncover insights, solve complex problems, and drive decision-making. Whether it’s analyzing trends, building predictive models, or diving into the intricacies of risk and uncertainty, I thrive on turning data into actionable solutions.
+Let's stay in touch! You can reach me on these platforms:
+(https://www.instagram.com/leo.3457/) (https://linkedin.com/in/leo-liao-40628b308) 
