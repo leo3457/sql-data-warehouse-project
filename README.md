@@ -51,4 +51,6 @@ Develop SQL-based analytics to deliver detailed insights into:
 ## 🌟 About Me
 Hi there! I'm Leo, a passionate and driven student at the University of Waterloo, pursuing a degree in Statistics and Actuarial Science. I’m deeply fascinated by the world of data and its power to uncover insights, solve complex problems, and drive decision-making. Whether it’s analyzing trends, building predictive models, or diving into the intricacies of risk and uncertainty, I thrive on turning data into actionable solutions.
 Let's stay in touch! You can reach me on these platforms:
-[LinkedIn](https://linkedin.com/in/leo-liao-40628b308) [Instagram](https://www.instagram.com/leo.3457/)
+[![image](https://github.com/user-attachments/assets/cf05774a-7c20-424e-a4f9-9de651a9c99b)
+](https://linkedin.com/in/leo-liao-40628b308) [![image](https://github.com/user-attachments/assets/de2ae634-6c21-4287-b95e-0bf444328e55)
+](https://www.instagram.com/leo.3457/)
